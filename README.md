@@ -1,0 +1,2 @@
+# newgit
+Git new work 
